@@ -1,7 +1,7 @@
 # Week 05: Databases
 
 ## SLIDES
-* ↳ [Link to Week 5 Slides: Databases](https://docs.google.com/presentation/d/1NXcBsQkESTozDhiIG3NEp-Pj90pV-YdQ0IgvG2Ix-MM/)
+* ↳ [Link to Week 5 Slides: Databases](#)
 
 ## ABOUT
 
