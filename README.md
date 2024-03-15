@@ -5,7 +5,7 @@
 
 Instructor: Ahmad Arshad
 
-Email: ahmad.arshad@nyu.edu
+Email Address: ahmad.arshad@nyu.edu
 
 Live Sessions: Fri 9:30AM - 12:00PM EST
 
