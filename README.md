@@ -1,5 +1,5 @@
 # Dynamic Web Development - ITPG-GT.2577.1
-## Spring 2023
+## Spring 2024
 
 # Welcome to 7 weeks of development
 
@@ -7,11 +7,11 @@ Instructor: Ahmad Arshad
 
 Email: ahmad.arshad@nyu.edu
 
-Live Sessions: Wed 12:10PM-2:40PM EST
+Live Sessions: Fri 9:30AM - 12:00PM EST
 
-Dates : 03/22/2023 - 05/03/2023
+Dates : 03/15/2024 - 05/03/2024
 
-Location : 370 Jay St, Room 409 Loc: Brooklyn Campus
+Location : 370 Jay St, Room 408 Loc: Brooklyn Campus
 
 ## DESCRIPTION
 This online synchronous course introduces the fundamentals of building "full stack" web applications. It will focus on modern, client- and server- side web technologies and provide practical methods for approaching web development for creative and functional applications. The core technologies used in this course are HTML5, JavaScript, Node.js with the Express framework, and MongoDB database. Students will learn to design, develop, and deploy web applications and gain the necessary skills to extend and explore web development independently.
@@ -33,15 +33,15 @@ In order to achieve these objectives, students will spend the semester building,
 
 ### MEETINGS
 
-| GO TO  |  DATE  | THEME | NOTES |
-| :----         |  ----  | ---- | ---- |
-| [WEEK 01](weeks/01_foundations.md) |  March 22   | Web foundations      |   n/a   |
-| [WEEK 02](weeks/02_front-end-foundations.md) |  March 29   | Front-end Foundations      |   n/a   |
-| [WEEK 03](weeks/03_front-end-applications.md) |  April 5   | Front-end Applications      |   n/a   |
-| [WEEK 04](weeks/04_back-end-foundations.md) |  April 12   | Back-end Foundations  |   n/a   |
-| [WEEK 05](weeks/05_databases.md) |  April 19   | Data Persistence & Databases     |   n/a   |
-| [WEEK 06](weeks/06_synthesis.md) |  April 26   | Synthesis     |   n/a   |
-| [WEEK 07](weeks/07_final.md) |  May 3   | Final Class    |   n/a   |
+| GO TO  | DATE     | THEME | NOTES |
+| :----         |----------| ---- | ---- |
+| [WEEK 01](weeks/01_foundations.md) | March 15 | Web foundations      |   n/a   |
+| [WEEK 02](weeks/02_front-end-foundations.md) | March 29 | Front-end Foundations      |   n/a   |
+| [WEEK 03](weeks/03_front-end-applications.md) | April 5  | Front-end Applications      |   n/a   |
+| [WEEK 04](weeks/04_back-end-foundations.md) | April 12 | Back-end Foundations  |   n/a   |
+| [WEEK 05](weeks/05_databases.md) | April 19 | Data Persistence & Databases     |   n/a   |
+| [WEEK 06](weeks/06_synthesis.md) | April 26 | Synthesis     |   n/a   |
+| [WEEK 07](weeks/07_final.md) | May 3    | Final Class    |   n/a   |
 
 ### ASSIGNMENTS
 

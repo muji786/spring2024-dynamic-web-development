@@ -1,7 +1,7 @@
 # Week 01: Web Foundations
 
 ## Slides
-* ↳ [Link to Week 1 Slides: Web Foundations](https://docs.google.com/presentation/d/1PMlDtBtqKWatnZeD84fY2loDfpqMxQVU_w26ywoOo7A/)
+* ↳ [Link to Week 1 Slides: Web Foundations](https://docs.google.com/presentation/d/1j-Hbyfh7A6zeu_2bYSsnPEeKE_2xKYdvJMePVLpDUiw/)
 
 
 ## About

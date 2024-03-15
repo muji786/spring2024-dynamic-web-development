@@ -20,7 +20,7 @@ There are MANY APIs out there. Here's a list you might consider exploring: [list
 ## Example Projects
 Note that these are not finished, polished apps, just a jumping off point.
 * [Weather App](https://github.com/muji786/weather-app)
-* [Music Genres + Feelings](https://github.com/muji786/spring2023-dynamic-web-development/a3-cat-frontend-web-app)
+* [Music Genres + Feelings](https://github.com/muji786/spring2024-dynamic-web-development/a3-cat-frontend-web-app)
 
 ## Requirements
 
